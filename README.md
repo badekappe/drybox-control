@@ -13,7 +13,7 @@ DryBox dryController
 
 ## Changes with original
 This is a detached fork from [werner_rh](https://github.com/werner-rh/drybox-control), in which I made the following changes:
-- Replaced the DHT11 with SHT31
+- Replaced the DHT11 with SHT31. See also [this folder](./DHT31/)
 
 ## Description
 Controller for an active heated and ventilated Filament DryBox. The Dryer contains a PTC Heater and a Fan for fresh dry air.
